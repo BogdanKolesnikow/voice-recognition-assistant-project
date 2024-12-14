@@ -1,0 +1,40 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+/* Стили по умолчанию */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #eeeaea;
+  color: #333;
+}
+
+/* Стиль только для h1 */
+/* h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 48px;
+  margin: 20px 0;
+  color: #333;
+} */
+
+/* Остальной текст */
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700; /* Устанавливаем вес шрифта Thin */
+    font-size: 24px;
+    color: #333;
+    margin-top: -80px;
+  }
+
+.title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 80px;
+    margin:10px 0;
+    color: #333;
+    margin-top: 5%;
+  }
+  
